@@ -1,0 +1,8 @@
+.text-container {
+    height: auto;
+    min-width: 30vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #000;
+    color: #fff;
+}
