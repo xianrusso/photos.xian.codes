@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useLayoutEffect } from "react"
+import React from "react"
 
 import TextPane from "../components/TextPane/TextPane"
 

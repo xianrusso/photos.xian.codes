@@ -2,3 +2,19 @@ nav {
     display: flex;
     flex-direction: column;
 }
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: #fff;
+    padding: .31em;
+}
+
+a:hover {
+    color: #2a8c44;
+}
+
+a:focus,
+a:active {
+    text-decoration: underline;
+}

@@ -8,8 +8,8 @@ const TextPane = () => {
   return (
     <>
       <div className="text-container">
-        <h2>Christian Russo</h2>
-        <p>This is my photography portfolio</p>
+        <p>Christian Russo's Photos</p>
+        <p>Hello! I'm a Developer from Baltimore, Maryland.</p>
         <Navigation></Navigation>
       </div>
     </>
