@@ -1,0 +1,11 @@
+.image-pane {
+    height: auto;
+    width: 100vw;
+}
+
+@media only screen and (max-width: 768px) {
+    .image-pane {
+        height: 100vh;
+        width: auto;
+    }
+}

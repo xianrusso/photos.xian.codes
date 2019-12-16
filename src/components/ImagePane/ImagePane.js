@@ -1,10 +1,9 @@
 import React from "react"
-import styled from "styled-components"
 
-const ImagePane = styled.div`
-  height: auto;
-  width: 100vw;
-  scrollsnapalign: center;
-`
+import "./ImagePane.css"
+
+const ImagePane = ({ children }) => {
+  return <div className="image-pane">{children}</div>
+}
 
 export default ImagePane

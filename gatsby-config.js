@@ -20,6 +20,34 @@ module.exports = {
         path: `${__dirname}/src/content/film2`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `provia100f`,
+        path: `${__dirname}/src/content/provia100f`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `delta400`,
+        path: `${__dirname}/src/content/delta400`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `silvermax100`,
+        path: `${__dirname}/src/content/silvermax100`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `portra400`,
+        path: `${__dirname}/src/content/portra400`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

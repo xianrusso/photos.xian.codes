@@ -1,10 +1,15 @@
 import React from "react"
 import Img from "gatsby-image"
-import styled from "styled-components"
 
-const Image = styled(Img)`
-  height: calc(100vh);
-  width: calc(100vw - 80px);
-`
+import "./Image.css"
+
+// const Image = styled(Img)`
+//   height: calc(100vh);
+//   width: calc(100vw - 350px);
+// `
+
+const Image = ({ key, fluid }) => {
+  return <Img className="image" key={key} fluid={fluid} />
+}
 
 export default Image

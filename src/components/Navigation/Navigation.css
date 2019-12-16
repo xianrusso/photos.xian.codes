@@ -1,4 +1,7 @@
 nav {
+    position: relative;
+    margin-right: 1px;
+    padding: 1em;
     display: flex;
     flex-direction: column;
 }
@@ -7,7 +10,6 @@ a {
     outline: none;
     text-decoration: none;
     color: #fff;
-    padding: .31em;
 }
 
 a:hover {
