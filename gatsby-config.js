@@ -48,6 +48,13 @@ module.exports = {
         path: `${__dirname}/src/content/portra400`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `trix400`,
+        path: `${__dirname}/src/content/trix400`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
