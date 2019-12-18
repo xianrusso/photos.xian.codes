@@ -55,6 +55,13 @@ module.exports = {
         path: `${__dirname}/src/content/trix400`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `ektar100`,
+        path: `${__dirname}/src/content/ektar100`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

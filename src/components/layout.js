@@ -14,6 +14,7 @@ const Layout = ({ children }) => {
       content = document.querySelector(".container")
     } else {
       content.scrollLeft += e.deltaY
+      console.log(content.scrollLeft)
     }
   }
   return (
