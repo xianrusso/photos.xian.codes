@@ -62,6 +62,13 @@ module.exports = {
         path: `${__dirname}/src/content/ektar100`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `portra160`,
+        path: `${__dirname}/src/content/portra160`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
