@@ -18,8 +18,8 @@ export default ({ data }) => {
 }
 
 export const query = graphql`
-  query TwoQuery {
-    images: allFile(filter: { sourceInstanceName: { eq: "film2" } }) {
+  query FujiC200Query {
+    images: allFile(filter: { sourceInstanceName: { eq: "fujic200" } }) {
       edges {
         node {
           id

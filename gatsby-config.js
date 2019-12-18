@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `film2`,
-        path: `${__dirname}/src/content/film2`,
+        name: `fujic200`,
+        path: `${__dirname}/src/content/fujic200`,
       },
     },
     {
