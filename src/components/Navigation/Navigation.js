@@ -12,6 +12,7 @@ const Navigation = () => {
         <Link to="/classic100">Fomapan Classic 100</Link>
         <Link to="/provia100f">Fujichrome Provia 100F</Link>
         <Link to="/fujic200">Fuji C200</Link>
+        <Link to="/superia400">Fuji X-TRA Superia 400</Link>
         <Link to="/delta400">Ilford Delta 400</Link>
         <Link to="/gold200">Kodak Gold 200</Link>
         <Link to="/portra160">Kodak Portra 160</Link>

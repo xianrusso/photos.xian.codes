@@ -83,7 +83,13 @@ module.exports = {
         path: `${__dirname}/src/content/gold200`,
       },
     },
-    `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `superia400`,
+        path: `${__dirname}/src/content/superia400`,
+      },
+    }`gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
