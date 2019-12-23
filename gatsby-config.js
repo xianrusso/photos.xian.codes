@@ -76,6 +76,13 @@ module.exports = {
         path: `${__dirname}/src/content/classic100`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `gold200`,
+        path: `${__dirname}/src/content/gold200`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
