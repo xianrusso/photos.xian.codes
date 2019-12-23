@@ -1,25 +1,33 @@
-import React from "react"
+import React, { useEffect, useRef } from "react"
 
 import TextPane from "../components/TextPane/TextPane"
 
 import "./layout.css"
 
 const Layout = ({ children }) => {
-  let content = document.querySelector(".container")
-  window.addEventListener("mousewheel", useScroll)
+  let content = useRef()
 
-  function useScroll(e) {
-    e.preventDefault()
-    if (content === undefined || !content) {
-      content = document.querySelector(".container")
-    } else {
-      content.scrollLeft += e.deltaY
-      console.log(content.scrollLeft)
-    }
-  }
+  useEffect(
+    e => {
+      function useScroll(e) {
+        e.preventDefault()
+        if (content === undefined || !content) {
+          content.current = document.querySelector(".container")
+        } else {
+          content.current.scrollLeft += e.deltaY
+        }
+      }
+      window.addEventListener("mousewheel", useScroll)
+      return () => {
+        window.removeEventListener("mousewheel", useScroll)
+      }
+    },
+    [content]
+  )
+
   return (
     <>
-      <div className="container">
+      <div className="container" ref={content}>
         <TextPane></TextPane>
         {children}
       </div>

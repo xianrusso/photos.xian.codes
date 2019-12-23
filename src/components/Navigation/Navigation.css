@@ -12,11 +12,16 @@ a {
     color: #fff;
 }
 
-a:hover {
-    color: #2a8c44;
+a:focus {
+    text-decoration: underline;
+    color: #72D7D1;
 }
 
-a:focus,
+a:hover {
+    color: #72D7D1;
+}
+
 a:active {
     text-decoration: underline;
+    color: #72D7D1;
 }

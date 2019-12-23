@@ -69,6 +69,13 @@ module.exports = {
         path: `${__dirname}/src/content/portra160`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `classic100`,
+        path: `${__dirname}/src/content/classic100`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
