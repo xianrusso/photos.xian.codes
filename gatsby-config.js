@@ -89,7 +89,15 @@ module.exports = {
         name: `superia400`,
         path: `${__dirname}/src/content/superia400`,
       },
-    }`gatsby-transformer-sharp`,
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `ultramax400`,
+        path: `${__dirname}/src/content/ultramax400`,
+      },
+    },
+    `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
