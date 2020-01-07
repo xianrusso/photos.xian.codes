@@ -6,6 +6,11 @@ nav {
     flex-direction: column;
 }
 
+.active {
+    color: #72D7D1;
+    text-decoration: underline;
+}
+
 a {
     outline: none;
     text-decoration: none;

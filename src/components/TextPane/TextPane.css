@@ -12,6 +12,13 @@
     font-family: 'Nunito', sans-serif;
 }
 
+@media only screen and (min-width: 751px) {
+    .text-container {
+        height: auto;
+        overflow-y: auto;
+    }
+}
+
 p {
     padding: 1em 1em;
     position: relative;
