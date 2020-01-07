@@ -1,0 +1,12 @@
+.info-pane {
+    backdrop-filter: blur(10px);
+    background-color: rgba(28, 29, 29, .5);
+    bottom: 0;
+    left: 0;
+    padding: .50rem;
+    position: absolute;
+    right: 0;
+    margin-bottom: 0;
+    width: 100%;
+    color: #fff;
+}

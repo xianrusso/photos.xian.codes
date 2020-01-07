@@ -1,6 +1,7 @@
 .image-pane {
     height: auto;
     width: 100vw;
+    position: relative;
 }
 
 @media only screen and (max-width: 768px) {

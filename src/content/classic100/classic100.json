@@ -1,0 +1,307 @@
+[{
+        "id": "bal0",
+        "location": "Baltimore, MD",
+        "description": "Graffiti in Old Goucher",
+        "src": "./baltimore0.jpg"
+    },
+    {
+        "id": "bal1",
+        "location": "Baltimore, MD",
+        "description": "Graffiti in Old Goucher",
+        "src": "./baltimore1.jpg"
+    },
+    {
+        "id": "bal2",
+        "location": "Baltimore, MD",
+        "description": "St. Paul's Cathedral",
+        "src": "./baltimore2.jpg"
+    },
+    {
+        "id": "bal3",
+        "location": "Baltimore, MD",
+        "description": "Me",
+        "src": "./baltimore3.jpg"
+    },
+    {
+        "id": "bal5",
+        "location": "Baltimore, MD",
+        "description": "Dog with different colored eyes",
+        "src": "./baltimore5.jpg"
+    },
+    {
+        "id": "pla0",
+        "location": "On a Plane",
+        "description": "Taken out my cabin window",
+        "src": "./plane0.jpg"
+    },
+    {
+        "id": "bal5",
+        "location": "Baltimore, MD",
+        "description": "Dog with different colored eyes",
+        "src": "./baltimore5.jpg"
+    },
+    {
+        "id": "bru0",
+        "location": "Brussels, Belgium",
+        "description": "Free Palenstine",
+        "src": "./brussels0.jpg"
+    },
+    {
+        "id": "bru2",
+        "location": "Brussels, Belgium",
+        "description": "On a street",
+        "src": "./brussels2.jpg"
+    },
+    {
+        "id": "bru3",
+        "location": "Brussels, Belgium",
+        "description": "On a street",
+        "src": "./brussels3.jpg"
+    },
+    {
+        "id": "bru4",
+        "location": "Brussels, Belgium",
+        "description": "Under renovation",
+        "src": "./brussels4.jpg"
+    },
+    {
+        "id": "bru5",
+        "location": "Brussels, Belgium",
+        "description": "NWA in Brussels",
+        "src": "./brussels5.jpg"
+    },
+    {
+        "id": "bru6",
+        "location": "Brussels, Belgium",
+        "description": "Feminist Graffiti",
+        "src": "./brussels6.jpg"
+    },
+    {
+        "id": "bru7",
+        "location": "Brussels, Belgium",
+        "description": "Feminist Graffiti",
+        "src": "./brussels7.jpg"
+    },
+    {
+        "id": "bru8",
+        "location": "Brussels, Belgium",
+        "description": "Group of people",
+        "src": "./brussels8.jpg"
+    },
+    {
+        "id": "bru9",
+        "location": "Brussels, Belgium",
+        "description": "Presumably a lone tourist",
+        "src": "./brussels9.jpg"
+    },
+    {
+        "id": "bru10",
+        "location": "Brussels, Belgium",
+        "description": "Buildings",
+        "src": "./brussels10.jpg"
+    },
+    {
+        "id": "bru11",
+        "location": "Brussels, Belgium",
+        "description": "Loading up a truck",
+        "src": "./brussels11.jpg"
+    },
+    {
+        "id": "bru12",
+        "location": "Brussels, Belgium",
+        "description": "A random sock on a window sill",
+        "src": "./brussels12.jpg"
+    },
+    {
+        "id": "bru13",
+        "location": "Brussels, Belgium",
+        "description": "Texture from rock formation",
+        "src": "./brussels13.jpg"
+    },
+    {
+        "id": "bru14",
+        "location": "Brussels, Belgium",
+        "description": "Unknown",
+        "src": "./brussels14.jpg"
+    },
+    {
+        "id": "ell1",
+        "location": "Ellicott City, MD",
+        "description": "Matcha Time Cafe",
+        "src": "./ellicottcity1.jpg"
+    },
+    {
+        "id": "ell3",
+        "location": "Ellicott City, MD",
+        "description": "Daisy",
+        "src": "./ellicottcity3.jpg"
+    },
+    {
+        "id": "ell4",
+        "location": "Ellicott City, MD",
+        "description": "Patapsco State Park",
+        "src": "./ellicottcity4.jpg"
+    },
+    {
+        "id": "ell5",
+        "location": "Ellicott City, MD",
+        "description": "Face on a tree",
+        "src": "./ellicottcity5.jpg"
+    },
+    {
+        "id": "ell7",
+        "location": "Ellicott City, MD",
+        "description": "Railroad tracks",
+        "src": "./ellicottcity7.jpg"
+    },
+    {
+        "id": "ell12",
+        "location": "Ellicott City, MD",
+        "description": "Old Ellicott City",
+        "src": "./ellicottcity12.jpg"
+    },
+    {
+        "id": "par0",
+        "location": "Paris, France",
+        "description": "Tipped can",
+        "src": "./paris0.jpg"
+    },
+    {
+        "id": "mad0",
+        "location": "Madrid, Spain",
+        "description": "Evan",
+        "src": "./madrid0.jpg"
+    },
+    {
+        "id": "mad1",
+        "location": "Madrid, Spain",
+        "description": "Cory retrieving darts",
+        "src": "./madrid1.jpg"
+    },
+    {
+        "id": "mad2",
+        "location": "Madrid, Spain",
+        "description": "Evan throwing darts",
+        "src": "./madrid2.jpg"
+    },
+    {
+        "id": "mad5",
+        "location": "Madrid, Spain",
+        "description": "Evan in the middle of speaking",
+        "src": "./madrid5.jpg"
+    },
+    {
+        "id": "mad6",
+        "location": "Madrid, Spain",
+        "description": "Baden Baden",
+        "src": "./madrid6.jpg"
+    },
+    {
+        "id": "gua0",
+        "location": "Guadalajara, Spain",
+        "description": "Festive streets",
+        "src": "./guadalajara0.jpg"
+    },
+    {
+        "id": "val0",
+        "location": "Valdenoches, Spain",
+        "description": "Whatever this is...",
+        "src": "./valdenoches0.jpg"
+    },
+    {
+        "id": "val2",
+        "location": "Valdenoches, Spain",
+        "description": "Hitchhiking spot",
+        "src": "./valdenoches2.jpg"
+    },
+    {
+        "id": "val3",
+        "location": "Valdenoches, Spain",
+        "description": "Horses",
+        "src": "./valdenoches3.jpg"
+    },
+    {
+        "id": "val4",
+        "location": "Valdenoches, Spain",
+        "description": "On a hike to the nearest village",
+        "src": "./valdenoches4.jpg"
+    },
+    {
+        "id": "mon0",
+        "location": "Montpelier, France",
+        "description": "Andrea",
+        "src": "./montpelier0.jpg"
+    },
+    {
+        "id": "mon1",
+        "location": "Montpelier, France",
+        "description": "Beer before sunset",
+        "src": "./montpelier1.jpg"
+    },
+    {
+        "id": "mon2",
+        "location": "Montpelier, France",
+        "description": "On a street",
+        "src": "./montpelier2.jpg"
+    },
+    {
+        "id": "mon3",
+        "location": "Montpelier, France",
+        "description": "StayCool Hostel",
+        "src": "./montpelier3.jpg"
+    },
+    {
+        "id": "mie0",
+        "location": "Mieussy, France",
+        "description": "Camping in the backyard",
+        "src": "./mieussy0.jpg"
+    },
+    {
+        "id": "gen0",
+        "location": "Geneva, Switzerland",
+        "description": "Ferris Wheel",
+        "src": "./geneva0.jpg"
+    },
+    {
+        "id": "nyo2",
+        "location": "Nyon, Switzerland",
+        "description": "Bear hanging on the banister",
+        "src": "./nyon2.jpg"
+    },
+    {
+        "id": "nyo3",
+        "location": "Nyon, Switzerland",
+        "description": "Lake Geneva sure has a lot of bears...",
+        "src": "./nyon3.jpg"
+    },
+    {
+        "id": "nyo4",
+        "location": "Nyon, Switzerland",
+        "description": "View of Nyon",
+        "src": "./nyon4.jpg"
+    },
+    {
+        "id": "nyo6",
+        "location": "Nyon, Switzerland",
+        "description": "Lonely balloon",
+        "src": "./nyon6.jpg"
+    },
+    {
+        "id": "lau0",
+        "location": "Lausanne, Switzerland",
+        "description": "Lake Geneva",
+        "src": "./lausanne0.jpg"
+    },
+    {
+        "id": "fri0",
+        "location": "Fribourg, Switzerland",
+        "description": "Dropped off at a gas station",
+        "src": "./fribourg0.jpg"
+    },
+    {
+        "id": "ber0",
+        "location": "Bern, Switzerland",
+        "description": "Skate park",
+        "src": "./bern0.jpg"
+    }
+]
