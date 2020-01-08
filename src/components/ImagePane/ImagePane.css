@@ -4,6 +4,10 @@
     position: relative;
 }
 
+.image-pane:hover .info-pane {
+    visibility: visible;
+}
+
 @media only screen and (max-width: 768px) {
     .image-pane {
         height: 100vh;
