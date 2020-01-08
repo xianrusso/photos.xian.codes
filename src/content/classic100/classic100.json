@@ -1,30 +1,30 @@
 [{
         "id": "bal0",
-        "location": "Baltimore, MD",
+        "location": "Baltimore, Maryland",
         "description": "Graffiti in Old Goucher",
         "src": "./baltimore0.jpg"
     },
     {
         "id": "bal1",
-        "location": "Baltimore, MD",
+        "location": "Baltimore, Maryland",
         "description": "Graffiti in Old Goucher",
         "src": "./baltimore1.jpg"
     },
     {
         "id": "bal2",
-        "location": "Baltimore, MD",
+        "location": "Baltimore, Maryland",
         "description": "St. Paul's Cathedral",
         "src": "./baltimore2.jpg"
     },
     {
         "id": "bal3",
-        "location": "Baltimore, MD",
+        "location": "Baltimore, Maryland",
         "description": "Me",
         "src": "./baltimore3.jpg"
     },
     {
         "id": "bal5",
-        "location": "Baltimore, MD",
+        "location": "Baltimore, Maryland",
         "description": "Dog with different colored eyes",
         "src": "./baltimore5.jpg"
     },
@@ -36,7 +36,7 @@
     },
     {
         "id": "bal5",
-        "location": "Baltimore, MD",
+        "location": "Baltimore, Maryland",
         "description": "Dog with different colored eyes",
         "src": "./baltimore5.jpg"
     },
@@ -126,37 +126,37 @@
     },
     {
         "id": "ell1",
-        "location": "Ellicott City, MD",
+        "location": "Ellicott City, Maryland",
         "description": "Matcha Time Cafe",
         "src": "./ellicottcity1.jpg"
     },
     {
         "id": "ell3",
-        "location": "Ellicott City, MD",
+        "location": "Ellicott City, Maryland",
         "description": "Daisy",
         "src": "./ellicottcity3.jpg"
     },
     {
         "id": "ell4",
-        "location": "Ellicott City, MD",
+        "location": "Ellicott City, Maryland",
         "description": "Patapsco State Park",
         "src": "./ellicottcity4.jpg"
     },
     {
         "id": "ell5",
-        "location": "Ellicott City, MD",
+        "location": "Ellicott City, Maryland",
         "description": "Face on a tree",
         "src": "./ellicottcity5.jpg"
     },
     {
         "id": "ell7",
-        "location": "Ellicott City, MD",
+        "location": "Ellicott City, Maryland",
         "description": "Railroad tracks",
         "src": "./ellicottcity7.jpg"
     },
     {
         "id": "ell12",
-        "location": "Ellicott City, MD",
+        "location": "Ellicott City, Maryland",
         "description": "Old Ellicott City",
         "src": "./ellicottcity12.jpg"
     },
