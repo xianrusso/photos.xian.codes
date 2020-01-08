@@ -30,13 +30,6 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `delta400`,
-        path: `${__dirname}/src/content/delta400`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
         name: `silvermax100`,
         path: `${__dirname}/src/content/silvermax100`,
       },
@@ -75,6 +68,14 @@ module.exports = {
       options: {
         name: `classic100`,
         path: `${__dirname}/src/content/classic100`,
+      },
+    },
+    "gatsby-transformer-json",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `delta400`,
+        path: `${__dirname}/src/content/delta400`,
       },
     },
     {

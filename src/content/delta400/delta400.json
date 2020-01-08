@@ -1,0 +1,193 @@
+[{
+        "id": "bud0",
+        "location": "Budapest, Hungary",
+        "description": "Line outside of Bors GaztroBar",
+        "src": "./budapest0.jpg"
+    },
+    {
+        "id": "vie0",
+        "location": "Vienna, Austria",
+        "description": "Tank",
+        "src": "./vienna0.jpg"
+    },
+    {
+        "id": "vie1",
+        "location": "Vienna, Austria",
+        "description": "Three men in animal onesies busking",
+        "src": "./vienna1.jpg"
+    },
+    {
+        "id": "vie2",
+        "location": "Vienna, Austria",
+        "description": "Lukas and Flo",
+        "src": "./vienna2.jpg"
+    },
+    {
+        "id": "vie3",
+        "location": "Vienna, Austria",
+        "description": "Austrian National Day",
+        "src": "./vienna3.jpg"
+    },
+    {
+        "id": "vie4",
+        "location": "Vienna, Austria",
+        "description": "Matt hitchhiking to Ybbs",
+        "src": "./vienna4.jpg"
+    },
+    {
+        "id": "sal0",
+        "location": "Salzburg, Austria",
+        "description": "Matt",
+        "src": "./salzburg0.jpg"
+    },
+    {
+        "id": "sal2",
+        "location": "Salzburg, Austria",
+        "description": "Alpha Pussy",
+        "src": "./salzburg2.jpg"
+    },
+    {
+        "id": "sal1",
+        "location": "Salzburg, Austria",
+        "description": "Hitchhiking to Munich",
+        "src": "./salzburg1.jpg"
+    },
+    {
+        "id": "mun0",
+        "location": "Munich, Germany",
+        "description": "Julia",
+        "src": "./munich0.jpg"
+    },
+    {
+        "id": "mun1",
+        "location": "Munich, Germany",
+        "description": "Lost glove",
+        "src": "./munich1.jpg"
+    },
+    {
+        "id": "mun2",
+        "location": "Munich, Germany",
+        "description": "Espresso machine",
+        "src": "./munich2.jpg"
+    },
+    {
+        "id": "mun3",
+        "location": "Munich, Germany",
+        "description": "Cigar",
+        "src": "./munich3.jpg"
+    },
+    {
+        "id": "mun4",
+        "location": "Munich, Germany",
+        "description": "Anyone need furniture?",
+        "src": "./munich4.jpg"
+    },
+    {
+        "id": "mun5",
+        "location": "Munich, Germany",
+        "description": "Munich Farmer's Market",
+        "src": "./munich5.jpg"
+    },
+    {
+        "id": "mun6",
+        "location": "Munich, Germany",
+        "description": "Public transportation",
+        "src": "./munich6.jpg"
+    },
+    {
+        "id": "rot0",
+        "location": "Roth, Germany",
+        "description": "The driver that picked me up brought me to this show",
+        "src": "./roth0.jpg"
+    },
+    {
+        "id": "fur0",
+        "location": "Fürth, Germany",
+        "description": "Camping in a cold garage",
+        "src": "./furth0.jpg"
+    },
+    {
+        "id": "nur0",
+        "location": "Nuremberg, Germany",
+        "description": "Busking pianist",
+        "src": "./nuremberg0.jpg"
+    },
+    {
+        "id": "nur1",
+        "location": "Nuremberg, Germany",
+        "description": "Pegnitz",
+        "src": "./nuremberg1.jpg"
+    },
+    {
+        "id": "izm0",
+        "location": "İzmir, Turkey",
+        "description": "Fresh fruit",
+        "src": "./izmir0.jpg"
+    },
+    {
+        "id": "izm1",
+        "location": "İzmir, Turkey",
+        "description": "Lenni in Devlo's apartment",
+        "src": "./izmir1.jpg"
+    },
+    {
+        "id": "vis0",
+        "location": "Vişneli, Turkey",
+        "description": "Grainy photo of the farm",
+        "src": "./visneli0.jpg"
+    },
+    {
+        "id": "vis1",
+        "location": "Vişneli, Turkey",
+        "description": "Grainy photo of the farm",
+        "src": "./visneli1.jpg"
+    },
+    {
+        "id": "vis2",
+        "location": "Vişneli, Turkey",
+        "description": "Chickens",
+        "src": "./visneli2.jpg"
+    },
+    {
+        "id": "vis3",
+        "location": "Vişneli, Turkey",
+        "description": "Emaciated mother",
+        "src": "./visneli3jpg"
+    },
+    {
+        "id": "vis8",
+        "location": "Vişneli, Turkey",
+        "description": "Goats",
+        "src": "./visneli8.jpg"
+    },
+    {
+        "id": "vis12",
+        "location": "Vişneli, Turkey",
+        "description": "Dogs and cats",
+        "src": "./visneli12.jpg"
+    },
+    {
+        "id": "vis13",
+        "location": "Vişneli, Turkey",
+        "description": "Back to Izmir",
+        "src": "./visneli13.jpg"
+    },
+    {
+        "id": "par0",
+        "location": "Paris, France",
+        "description": "Une rue aléatoire",
+        "src": "./paris0.jpg"
+    },
+    {
+        "id": "par1",
+        "location": "Paris, France",
+        "description": "Bottles of wine",
+        "src": "./paris1.jpg"
+    },
+    {
+        "id": "bor1",
+        "location": "Bordeaux, France",
+        "description": "View from the floor of a Bordeaux apartment",
+        "src": "./bordeaux1.jpg"
+    }
+]
