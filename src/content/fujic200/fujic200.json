@@ -1,0 +1,403 @@
+[{
+        "id": "sil0",
+        "location": "Silba, Croatia",
+        "description": "Favorite camp spot",
+        "src": "./silba0.jpg"
+    },
+    {
+        "id": "sil1",
+        "location": "Silba, Croatia",
+        "description": "View of the Adriatic",
+        "src": "./silba1.jpg"
+    },
+    {
+        "id": "sil3",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba3.jpg"
+    },
+    {
+        "id": "sil4",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba4.jpg"
+    },
+    {
+        "id": "sil5",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba5.jpg"
+    },
+    {
+        "id": "sil6",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba6.jpg"
+    },
+    {
+        "id": "sil7",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba7.jpg"
+    },
+    {
+        "id": "sil8",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba8.jpg"
+    },
+    {
+        "id": "sil9",
+        "location": "Silba, Croatia",
+        "description": "Abandoned house",
+        "src": "./silba9.jpg"
+    },
+    {
+        "id": "sil10",
+        "location": "Silba, Croatia",
+        "description": "Sunset over the Adriatic",
+        "src": "./silba10.jpg"
+    },
+    {
+        "id": "sil11",
+        "location": "Silba, Croatia",
+        "description": "Chess and Ice Cream",
+        "src": "./silba11.jpg"
+    },
+    {
+        "id": "sil12",
+        "location": "Silba, Croatia",
+        "description": "Jona",
+        "src": "./silba12.jpg"
+    },
+    {
+        "id": "sil13",
+        "location": "Silba, Croatia",
+        "description": "Dehla",
+        "src": "./silba13.jpg"
+    },
+    {
+        "id": "sil14",
+        "location": "Silba, Croatia",
+        "description": "Camp spot",
+        "src": "./silba4.jpg"
+    },
+    {
+        "id": "sil15",
+        "location": "Silba, Croatia",
+        "description": "Jona and Dehla at the camp site",
+        "src": "./silba15.jpg"
+    },
+    {
+        "id": "sil16",
+        "location": "Silba, Croatia",
+        "description": "Dehla on the ferry",
+        "src": "./silba16.jpg"
+    },
+    {
+        "id": "sil17",
+        "location": "Silba, Croatia",
+        "description": "Jona and I playing chess on the ferry",
+        "src": "./silba17.jpg"
+    },
+    {
+        "id": "sil18",
+        "location": "Silba, Croatia",
+        "description": "Sunset on the ferry",
+        "src": "./silba18.jpg"
+    },
+    {
+        "id": "nur0",
+        "location": "Nuremberg, Germany",
+        "description": "Kat making Glühwein",
+        "src": "./nuremberg0.jpg"
+    },
+    {
+        "id": "nur1",
+        "location": "Nuremberg, Germany",
+        "description": "Matt and I hitchhiking to Prague",
+        "src": "./nuremberg1.jpg"
+    },
+    {
+        "id": "pra0",
+        "location": "Prague, Czech Republic",
+        "description": "View of Prague",
+        "src": "./prague0.jpg"
+    },
+    {
+        "id": "pra1",
+        "location": "Prague, Czech Republic",
+        "description": "Pink buildings",
+        "src": "./prague1.jpg"
+    },
+    {
+        "id": "pra2",
+        "location": "Prague, Czech Republic",
+        "description": "Rainbow bricks",
+        "src": "./prague2.jpg"
+    },
+    {
+        "id": "pra3",
+        "location": "Prague, Czech Republic",
+        "description": "Vines on a building",
+        "src": "./prague3.jpg"
+    },
+    {
+        "id": "pra4",
+        "location": "Prague, Czech Republic",
+        "description": "Matt",
+        "src": "./prague4.jpg"
+    },
+    {
+        "id": "sir0",
+        "location": "Siřejovice, Czech Republic",
+        "description": "Stuck at McDonald's while hitchhiking",
+        "src": "./sirojevice0.JPG"
+    },
+    {
+        "id": "dec0",
+        "location": "Děčín, Czech Republic",
+        "description": "MLK",
+        "src": "./decin0.jpg"
+    },
+    {
+        "id": "bad0",
+        "location": "Bad Schandau, Germany",
+        "description": "Small river",
+        "src": "./badschandau0.jpg"
+    },
+    {
+        "id": "bad1",
+        "location": "Bad Schandau, Germany",
+        "description": "Elbe",
+        "src": "./badschandau1.jpg"
+    },
+    {
+        "id": "bad2",
+        "location": "Bad Schandau, Germany",
+        "description": "Meadow",
+        "src": "./badschandau2.jpg"
+    },
+    {
+        "id": "bad3",
+        "location": "Bad Schandau, Germany",
+        "description": "Teepee",
+        "src": "./badschandau3.jpg"
+    },
+    {
+        "id": "bad4",
+        "location": "Bad Schandau, Germany",
+        "description": "Matt the Cat",
+        "src": "./badschandau4.jpg"
+    },
+    {
+        "id": "bad5",
+        "location": "Bad Schandau, Germany",
+        "description": "Dark forest view",
+        "src": "./badschandau5.jpg"
+    },
+    {
+        "id": "bad6",
+        "location": "Bad Schandau, Germany",
+        "description": "Miniature horse",
+        "src": "./badschandau6.JPG"
+    },
+    {
+        "id": "bad7",
+        "location": "Bad Schandau, Germany",
+        "description": "Scenic view",
+        "src": "./badschandau7.JPG"
+    },
+    {
+        "id": "dre0",
+        "location": "Dresden, Germany",
+        "description": "In Konnie and Anna's apartment",
+        "src": "./dresden0.jpg"
+    },
+    {
+        "id": "dre1",
+        "location": "Dresden, Germany",
+        "description": "Anna",
+        "src": "./dresden1.JPG"
+    },
+    {
+        "id": "dre2",
+        "location": "Dresden, Germany",
+        "description": "In Konnie and Anna's apartment",
+        "src": "./dresden2.JPG"
+    },
+    {
+        "id": "ber0",
+        "location": "Berlin, Germany",
+        "description": "Tourists",
+        "src": "./berlin0.JPG"
+    },
+    {
+        "id": "zad0",
+        "location": "Zadar, Croatia",
+        "description": "Camp spot",
+        "src": "./zadar0.jpg"
+    },
+    {
+        "id": "zad1",
+        "location": "Zadar, Croatia",
+        "description": "Jona",
+        "src": "./zadar1.jpg"
+    },
+    {
+        "id": "zad2",
+        "location": "Zadar, Croatia",
+        "description": "Dehla",
+        "src": "./zadar2.jpg"
+    },
+    {
+        "id": "zad3",
+        "location": "Zadar, Croatia",
+        "description": "Two coked up Croatian men that woke us up at 6AM",
+        "src": "./zadar3.jpg"
+    },
+    {
+        "id": "zad4",
+        "location": "Zadar, Croatia",
+        "description": "Jona and Dehla",
+        "src": "./zadar4.jpg"
+    },
+    {
+        "id": "zad5",
+        "location": "Zadar, Croatia",
+        "description": "Jona",
+        "src": "./zadar5.jpg"
+    },
+    {
+        "id": "zad6",
+        "location": "Zadar, Croatia",
+        "description": "Dehla",
+        "src": "./zadar6.jpg"
+    },
+    {
+        "id": "zad7",
+        "location": "Zadar, Croatia",
+        "description": "Camp spot",
+        "src": "./zadar7.jpg"
+    },
+    {
+        "id": "pak0",
+        "location": "Pakoštane, Croatia",
+        "description": "Beach",
+        "src": "./pakostane0.jpg"
+    },
+    {
+        "id": "vrg0",
+        "location": "Vrgada, Croatia",
+        "description": "Camp spot",
+        "src": "./vrgada0.jpg"
+    },
+    {
+        "id": "vrg1",
+        "location": "Vrgada, Croatia",
+        "description": "Dehla in his hammock",
+        "src": "./vrgada1.jpg"
+    },
+    {
+        "id": "vrg2",
+        "location": "Vrgada, Croatia",
+        "description": "Abandoned boat",
+        "src": "./vrgada2.jpg"
+    },
+    {
+        "id": "vrg3",
+        "location": "Vrgada, Croatia",
+        "description": "Say no to communism",
+        "src": "./vrgada3.jpg"
+    },
+    {
+        "id": "vrg4",
+        "location": "Vrgada, Croatia",
+        "description": "Mmmm yummy breakfast!",
+        "src": "./vrgada4.jpg"
+    },
+    {
+        "id": "vrg5",
+        "location": "Vrgada, Croatia",
+        "description": "Final night on the island",
+        "src": "./vrgada5.jpg"
+    },
+    {
+        "id": "sib0",
+        "location": "Šibenik, Croatia",
+        "description": "Laundry",
+        "src": "./sibenik0.jpg"
+    },
+    {
+        "id": "sib1",
+        "location": "Šibenik, Croatia",
+        "description": "Building",
+        "src": "./sibenik1.jpg"
+    },
+    {
+        "id": "sib2",
+        "location": "Šibenik, Croatia",
+        "description": "Staircase",
+        "src": "./sibenik2.jpg"
+    },
+    {
+        "id": "sib3",
+        "location": "Šibenik, Croatia",
+        "description": "View of the Adriatic and the city",
+        "src": "./sibenik3.jpg"
+    },
+    {
+        "id": "sib4",
+        "location": "Šibenik, Croatia",
+        "description": "View of Šibenik",
+        "src": "./sibenik4.jpg"
+    },
+    {
+        "id": "sib5",
+        "location": "Šibenik, Croatia",
+        "description": "Between two houses",
+        "src": "./sibenik5.jpg"
+    },
+    {
+        "id": "sib6",
+        "location": "Šibenik, Croatia",
+        "description": "View of Šibenik",
+        "src": "./sibenik6.jpg"
+    },
+    {
+        "id": "sib7",
+        "location": "Šibenik, Croatia",
+        "description": "Hitchhiking to Knin",
+        "src": "./sibenik7.jpg"
+    },
+    {
+        "id": "kni0",
+        "location": "Knin, Croatia",
+        "description": "Church",
+        "src": "./knin0.jpg"
+    },
+    {
+        "id": "kni1",
+        "location": "Knin, Croatia",
+        "description": "Abandoned building",
+        "src": "./knin1.jpg"
+    },
+    {
+        "id": "kni3",
+        "location": "Knin, Croatia",
+        "description": "View of Knin",
+        "src": "./knin3.jpg"
+    },
+    {
+        "id": "kni4",
+        "location": "Knin, Croatia",
+        "description": "Cat friend",
+        "src": "./knin4.jpg"
+    },
+    {
+        "id": "kni5",
+        "location": "Knin, Croatia",
+        "description": "Camp site",
+        "src": "./knin5.jpg"
+    },
+]
