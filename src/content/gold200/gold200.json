@@ -1,0 +1,193 @@
+[{
+        "id": "par0",
+        "location": "Paris, France",
+        "description": "Book store along the Seine",
+        "src": "./paris0.jpg"
+    },
+    {
+        "id": "par1",
+        "location": "Paris, France",
+        "description": "Un homme au hasard",
+        "src": "./paris1.jpg"
+    },
+    {
+        "id": "par2",
+        "location": "Paris, France",
+        "description": "Phyllis of Berkeley Books of Paris",
+        "src": "./paris2.jpg"
+    },
+    {
+        "id": "par3",
+        "location": "Paris, France",
+        "description": "Mannequin head",
+        "src": "./paris3.jpg"
+    },
+    {
+        "id": "par4",
+        "location": "Paris, France",
+        "description": "les Huîtres",
+        "src": "./paris4.jpg"
+    },
+    {
+        "id": "par5",
+        "location": "Paris, France",
+        "description": "Shakespeare & Co.",
+        "src": "./paris5.jpg"
+    },
+    {
+        "id": "par6",
+        "location": "Paris, France",
+        "description": "Working at Shakespeare & Co. as a Tumbleweed",
+        "src": "./paris6.jpg"
+    },
+    {
+        "id": "par9",
+        "location": "Paris, France",
+        "description": "Virginia Wolff at Shakespeare & Co.",
+        "src": "./paris9.jpg"
+    },
+    {
+        "id": "par10",
+        "location": "Paris, France",
+        "description": "la Chienne",
+        "src": "./paris10.jpg"
+    },
+    {
+        "id": "par11",
+        "location": "Paris, France",
+        "description": "ami de Porto Rico",
+        "src": "./paris11.jpg"
+    },
+    {
+        "id": "par12",
+        "location": "Paris, France",
+        "description": "My bed at Shakespeare & Co.",
+        "src": "./paris12.jpg"
+    },
+    {
+        "id": "par13",
+        "location": "Paris, France",
+        "description": "You are here",
+        "src": "./paris13.jpg"
+    },
+    {
+        "id": "par14",
+        "location": "Paris, France",
+        "description": "Boxing in Le Jardin du Luxembourg",
+        "src": "./paris14.jpg"
+    },
+    {
+        "id": "par15",
+        "location": "Paris, France",
+        "description": "Me",
+        "src": "./paris15.jpg"
+    },
+    {
+        "id": "par16",
+        "location": "Paris, France",
+        "description": "Safia Elhillo, the great poet",
+        "src": "./paris16.jpg"
+    },
+    {
+        "id": "par17",
+        "location": "Paris, France",
+        "description": "Overflowing ashtray",
+        "src": "./paris17.jpg"
+    },
+    {
+        "id": "par18",
+        "location": "Paris, France",
+        "description": "Posters",
+        "src": "./paris18.jpg"
+    },
+    {
+        "id": "par19",
+        "location": "Paris, France",
+        "description": "la Chienne",
+        "src": "./paris19.jpg"
+    },
+    {
+        "id": "par20",
+        "location": "Paris, France",
+        "description": "Walking along the Seine",
+        "src": "./paris20.jpg"
+    },
+    {
+        "id": "par21",
+        "location": "Paris, France",
+        "description": "Jen walking out of Shakespeare & Co. Cafe",
+        "src": "./paris21.jpg"
+    },
+    {
+        "id": "par22",
+        "location": "Paris, France",
+        "description": "My birthday",
+        "src": "./paris22.jpg"
+    },
+    {
+        "id": "par23",
+        "location": "Paris, France",
+        "description": "Hue",
+        "src": "./paris23.jpg"
+    },
+    {
+        "id": "par24",
+        "location": "Paris, France",
+        "description": "Satirical Macron poster",
+        "src": "./paris24.jpg"
+    },
+    {
+        "id": "par25",
+        "location": "Paris, France",
+        "description": "Pilfering trash",
+        "src": "./paris25.jpg"
+    },
+    {
+        "id": "par26",
+        "location": "Paris, France",
+        "description": "Moving a large photo print",
+        "src": "./paris26.jpg"
+    },
+    {
+        "id": "par28",
+        "location": "Paris, France",
+        "description": "Juxtaposition",
+        "src": "./paris28.jpg"
+    },
+    {
+        "id": "par29",
+        "location": "Paris, France",
+        "description": "Une femme dont j'ai oublié le nom",
+        "src": "./paris29.jpg"
+    },
+    {
+        "id": "par30",
+        "location": "Paris, France",
+        "description": "Will playing chess",
+        "src": "./paris30.jpg"
+    },
+    {
+        "id": "par31",
+        "location": "Paris, France",
+        "description": "Jen on a cigarette break",
+        "src": "./paris31.jpg"
+    },
+    {
+        "id": "par32",
+        "location": "Paris, France",
+        "description": "Coworkers",
+        "src": "./paris32.jpg"
+    },
+    {
+        "id": "par34",
+        "location": "Paris, France",
+        "description": "Un bon endroit pour les ordures",
+        "src": "./paris34.jpg"
+    },
+    {
+        "id": "par35",
+        "location": "Paris, France",
+        "description": "Buildings",
+        "src": "./paris35.jpg"
+    }
+]
