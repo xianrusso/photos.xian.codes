@@ -35,6 +35,7 @@ module.exports = {
         path: `${__dirname}/src/content/silvermax100`,
       },
     },
+    "gatsby-transformer-json",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
