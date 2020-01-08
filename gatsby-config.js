@@ -57,6 +57,7 @@ module.exports = {
         path: `${__dirname}/src/content/ektar100`,
       },
     },
+    "gatsby-transformer-json",
     {
       resolve: `gatsby-source-filesystem`,
       options: {

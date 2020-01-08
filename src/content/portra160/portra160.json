@@ -1,0 +1,79 @@
+[{
+        "id": "bal0",
+        "location": "Baltimore, Maryland",
+        "description": "Katie",
+        "src": "./baltimore0.jpg"
+    },
+    {
+        "id": "bal1",
+        "location": "Baltimore, Maryland",
+        "description": "Skaters in Hampden",
+        "src": "./baltimore1.JPG"
+    },
+    {
+        "id": "bal2",
+        "location": "Baltimore, Maryland",
+        "description": "Trash",
+        "src": "./baltimore2.JPG"
+    },
+    {
+        "id": "bal3",
+        "location": "Baltimore, Maryland",
+        "description": "Pat",
+        "src": "./baltimore3.JPG"
+    },
+    {
+        "id": "bal4",
+        "location": "Baltimore, Maryland",
+        "description": "Brooks",
+        "src": "./baltimore4.JPG"
+    },
+    {
+        "id": "ell0",
+        "location": "Ellicott City, Maryland",
+        "description": "Pat and a cigarette",
+        "src": "./ellicottcity0.JPG"
+    },
+    {
+        "id": "ell1",
+        "location": "Ellicott City, Maryland",
+        "description": "Katie",
+        "src": "./ellicottcity1.JPG"
+    },
+    {
+        "id": "ell2",
+        "location": "Ellicott City, Maryland",
+        "description": "Javonne",
+        "src": "./ellicottcity2.JPG"
+    },
+    {
+        "id": "ell3",
+        "location": "Ellicott City, Maryland",
+        "description": "Josh",
+        "src": "./ellicottcity3.JPG"
+    },
+    {
+        "id": "ell4",
+        "location": "Ellicott City, Maryland",
+        "description": "Ben and Josh at B'Evans",
+        "src": "./ellicottcity4.JPG"
+    },
+    {
+        "id": "ell5",
+        "location": "Ellicott City, Maryland",
+        "description": "Kallie",
+        "src": "./ellicottcity5.JPG"
+    },
+    {
+        "id": "ell6",
+        "location": "Ellicott City, Maryland",
+        "description": "Javonne",
+        "src": "./ellicottcity6.JPG"
+    },
+    {
+        "id": "ell7",
+        "location": "Ellicott City, Maryland",
+        "description": "Katie",
+        "src": "./ellicottcity7.JPG"
+    }
+]
