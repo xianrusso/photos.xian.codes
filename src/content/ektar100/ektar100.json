@@ -1,0 +1,175 @@
+[{
+        "id": "bel0",
+        "location": "Belgrade, Serbia",
+        "description": "Kat",
+        "src": "./belgrade0.jpg"
+    },
+    {
+        "id": "bel1",
+        "location": "Belgrade, Serbia",
+        "description": "Kat",
+        "src": "./belgrade1.jpg"
+    },
+    {
+        "id": "bel2",
+        "location": "Belgrade, Serbia",
+        "description": "To the airport",
+        "src": "./belgrade2.jpg"
+    },
+    {
+        "id": "bel3",
+        "location": "Belgrade, Serbia",
+        "description": "Dragan",
+        "src": "./belgrade3.JPG"
+    },
+    {
+        "id": "bel4",
+        "location": "Belgrade, Serbia",
+        "description": "Orthodox Christmas",
+        "src": "./belgrade4.JPG"
+    },
+    {
+        "id": "bel5",
+        "location": "Belgrade, Serbia",
+        "description": "Amra",
+        "src": "./belgrade5.JPG"
+    },
+    {
+        "id": "bel6",
+        "location": "Belgrade, Serbia",
+        "description": "Kai",
+        "src": "./belgrade6.JPG"
+    },
+    {
+        "id": "cop0",
+        "location": "Copenhagen, Denmark",
+        "description": "Elise",
+        "src": "./copenhagen0.JPG"
+    },
+    {
+        "id": "cop1",
+        "location": "Copenhagen, Denmark",
+        "description": "Trash",
+        "src": "./copenhagen1.JPG"
+    },
+    {
+        "id": "cop2",
+        "location": "Copenhagen, Denmark",
+        "description": "Linien",
+        "src": "./copenhagen2.JPG"
+    },
+    {
+        "id": "cop3",
+        "location": "Copenhagen, Denmark",
+        "description": "Refugee Encampment",
+        "src": "./copenhagen3.jpg"
+    },
+    {
+        "id": "cop4",
+        "location": "Copenhagen, Denmark",
+        "description": "Soldiers",
+        "src": "./copenhagen4.jpg"
+    },
+    {
+        "id": "cop5",
+        "location": "Copenhagen, Denmark",
+        "description": "Family",
+        "src": "./copenhagen5.jpg"
+    },
+    {
+        "id": "cop6",
+        "location": "Copenhagen, Denmark",
+        "description": "Soldiers",
+        "src": "./copenhagen6.JPG"
+    },
+    {
+        "id": "cop7",
+        "location": "Copenhagen, Denmark",
+        "description": "Swan",
+        "src": "./copenhagen7.jpg"
+    },
+    {
+        "id": "cop8",
+        "location": "Copenhagen, Denmark",
+        "description": "Shop window",
+        "src": "./copenhagen8.JPG"
+    },
+    {
+        "id": "cop9",
+        "location": "Copenhagen, Denmark",
+        "description": "Wild flowers",
+        "src": "./copenhagen9.JPG"
+    },
+    {
+        "id": "cop10",
+        "location": "Copenhagen, Denmark",
+        "description": "Winter leaves",
+        "src": "./copenhagen10.JPG"
+    },
+    {
+        "id": "uzi0",
+        "location": "Užice, Serbia",
+        "description": "Outside of the hostel",
+        "src": "./uzice0.jpg"
+    },
+    {
+        "id": "uzi1",
+        "location": "Užice, Serbia",
+        "description": "Dam",
+        "src": "./uzice1.jpg"
+    },
+    {
+        "id": "uzi2",
+        "location": "Užice, Serbia",
+        "description": "срећан рођендан",
+        "src": "./uzice2.JPG"
+    },
+    {
+        "id": "uzi3",
+        "location": "Užice, Serbia",
+        "description": "Dam",
+        "src": "./uzice3.JPG"
+    },
+    {
+        "id": "uzi4",
+        "location": "Užice, Serbia",
+        "description": "Tunnel",
+        "src": "./uzice4.jpg"
+    },
+    {
+        "id": "uzi5",
+        "location": "Užice, Serbia",
+        "description": "Snow",
+        "src": "./uzice5.JPG"
+    },
+    {
+        "id": "uzi6",
+        "location": "Užice, Serbia",
+        "description": "Rock formation",
+        "src": "./uzice6.JPG"
+    },
+    {
+        "id": "uzi7",
+        "location": "Užice, Serbia",
+        "description": "View from the hostel",
+        "src": "./uzice7.JPG"
+    },
+    {
+        "id": "uzi8",
+        "location": "Užice, Serbia",
+        "description": "Green bottle on green grass",
+        "src": "./uzice8.JPG"
+    },
+    {
+        "id": "bit0",
+        "location": "Bitola, Macedonia",
+        "description": "Homemade rakija",
+        "src": "./bitola0.JPG"
+    },
+    {
+        "id": "bit1",
+        "location": "Bitola, Macedonia",
+        "description": "Graffiti in Bitola",
+        "src": "./bitola1.JPG"
+    }
+]

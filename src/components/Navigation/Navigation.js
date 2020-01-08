@@ -24,6 +24,7 @@ const Navigation = () => {
         <Link to="/fujic200">Fuji C200</Link>
         <Link to="/superia400">Fuji Superia X-TRA 400</Link>
         <Link to="/delta400">Ilford Delta 400</Link>
+        <Link to="/ektar100">Kodak Ektar 100</Link>
         <Link to="/gold200">Kodak Gold 200</Link>
         <Link to="/portra160">Kodak Portra 160</Link>
         <Link to="/portra400">Kodak Portra 400</Link>

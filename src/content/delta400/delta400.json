@@ -2,7 +2,7 @@
         "id": "bud0",
         "location": "Budapest, Hungary",
         "description": "Line outside of Bors GaztroBar",
-        "src": "./budapest0.jpg"
+        "src": "./budapest0.JPG"
     },
     {
         "id": "vie0",
@@ -38,7 +38,7 @@
         "id": "sal0",
         "location": "Salzburg, Austria",
         "description": "Matt",
-        "src": "./salzburg0.jpg"
+        "src": "./salzburg0.JPG"
     },
     {
         "id": "sal2",
@@ -80,19 +80,19 @@
         "id": "mun4",
         "location": "Munich, Germany",
         "description": "Anyone need furniture?",
-        "src": "./munich4.jpg"
+        "src": "./munich4.JPG"
     },
     {
         "id": "mun5",
         "location": "Munich, Germany",
         "description": "Munich Farmer's Market",
-        "src": "./munich5.jpg"
+        "src": "./munich5.JPG"
     },
     {
         "id": "mun6",
         "location": "Munich, Germany",
         "description": "Public transportation",
-        "src": "./munich6.jpg"
+        "src": "./munich6.JPG"
     },
     {
         "id": "rot0",
@@ -104,7 +104,7 @@
         "id": "fur0",
         "location": "Fürth, Germany",
         "description": "Camping in a cold garage",
-        "src": "./furth0.jpg"
+        "src": "./furth0.JPG"
     },
     {
         "id": "nur0",
@@ -116,7 +116,7 @@
         "id": "nur1",
         "location": "Nuremberg, Germany",
         "description": "Pegnitz",
-        "src": "./nuremberg1.jpg"
+        "src": "./nuremberg1.JPG"
     },
     {
         "id": "izm0",
@@ -152,7 +152,7 @@
         "id": "vis3",
         "location": "Vişneli, Turkey",
         "description": "Emaciated mother",
-        "src": "./visneli3jpg"
+        "src": "./visneli3.jpg"
     },
     {
         "id": "vis8",
