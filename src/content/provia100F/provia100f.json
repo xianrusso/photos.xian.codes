@@ -1,0 +1,97 @@
+[{
+        "id": "cre3",
+        "location": "Cres, Croatia",
+        "description": "Sunset on the island",
+        "src": "./cres3.jpg"
+    },
+    {
+        "id": "rij0",
+        "location": "Rijeka, Croatia",
+        "description": "Mara",
+        "src": "./rijeka0.jpg"
+    },
+    {
+        "id": "sve0",
+        "location": "Sveti Vid-Miholjice, Croatia",
+        "description": "Resting spot before sunset",
+        "src": "./svetivid-miholjice0.jpg"
+    },
+    {
+        "id": "krk0",
+        "location": "Krk, Croatia",
+        "description": "Alley",
+        "src": "./krk0.jpg"
+    },
+    {
+        "id": "krk2",
+        "location": "Krk, Croatia",
+        "description": "Cat",
+        "src": "./krk2.jpg"
+    },
+    {
+        "id": "val0",
+        "location": "Valbiska, Croatia",
+        "description": "Ferry",
+        "src": "./valbiska0.jpg"
+    },
+    {
+        "id": "val1",
+        "location": "Valbiska, Croatia",
+        "description": "Ferry",
+        "src": "./valbiska1.jpg"
+    },
+    {
+        "id": "cre0",
+        "location": "Cres, Croatia",
+        "description": "Main port of Cres",
+        "src": "./cres0.JPG"
+    },
+    {
+        "id": "cre1",
+        "location": "Cres, Croatia",
+        "description": "Camping Canucks",
+        "src": "./cres1.jpg"
+    },
+    {
+        "id": "cre2",
+        "location": "Cres, Croatia",
+        "description": "Camping Canucks",
+        "src": "./cres2.jpg"
+    },
+    {
+        "id": "vra0",
+        "location": "Vrana, Croatia",
+        "description": "Hitchhiking to the South of the island",
+        "src": "./vrana0.jpg"
+    },
+    {
+        "id": "oso0",
+        "location": "Osor, Croatia",
+        "description": "Sunset from my camping spot",
+        "src": "./osor0.jpg"
+    },
+    {
+        "id": "sil0",
+        "location": "Silba, Croatia",
+        "description": "Cat on a roof",
+        "src": "./silba0.JPG"
+    },
+    {
+        "id": "sil1",
+        "location": "Silba, Croatia",
+        "description": "Dawn",
+        "src": "./silba1.JPG"
+    },
+    {
+        "id": "sil2",
+        "location": "Silba, Croatia",
+        "description": "Lonely chair by the sea",
+        "src": "./silba2.JPG"
+    },
+    {
+        "id": "sil3",
+        "location": "Silba, Croatia",
+        "description": "View from my camping spot",
+        "src": "./silba3.JPG"
+    }
+]

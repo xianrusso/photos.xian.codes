@@ -1,0 +1,45 @@
+[{
+        "id": "ber0",
+        "location": "Bern, Switzerland",
+        "description": "View from a Bern apartment",
+        "src": "./bern0.jpg"
+    },
+    {
+        "id": "ber3",
+        "location": "Bern, Switzerland",
+        "description": "Jigme",
+        "src": "./bern3.jpg"
+    },
+    {
+        "id": "ber1",
+        "location": "Bern, Switzerland",
+        "description": "Stefan in front of Dr. StrangeLove's VideoTek",
+        "src": "./bern1.jpg"
+    },
+    {
+        "id": "ber4",
+        "location": "Bern, Switzerland",
+        "description": "Dr. StrangeLove's VideoTek",
+        "src": "./bern4.jpg"
+    },
+    {
+        "id": "ber2",
+        "location": "Bern, Switzerland",
+        "description": "Under a bridge along the River Aare",
+        "src": "./bern2.jpg"
+    },
+    {
+        "id": "ber6",
+        "location": "Bern, Switzerland",
+        "description": "On a public bus",
+        "src": "./bern6.jpg"
+    },
+    {
+        "id": "lin0",
+        "location": "Bern, Switzerland",
+        "description": "Jigme",
+        "src": "./bern3.jpg"
+    }
+
+
+]

@@ -21,6 +21,7 @@ module.exports = {
         path: `${__dirname}/src/content/fujic200`,
       },
     },
+    "gatsby-transformer-json",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
