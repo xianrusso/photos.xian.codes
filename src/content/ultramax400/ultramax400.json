@@ -1,0 +1,175 @@
+[{
+        "id": "sar7",
+        "location": "Sarajevo, Bosnia & Herzegovina",
+        "description": "Hanging out",
+        "src": "./sarajevo7.jpg"
+    },
+    {
+        "id": "sar0",
+        "location": "Sarajevo, Bosnia & Herzegovina",
+        "description": "Took my camera",
+        "src": "./sarajevo0.jpg"
+    },
+    {
+        "id": "sar5",
+        "location": "Sarajevo, Bosnia & Herzegovina",
+        "description": "Took my camera",
+        "src": "./sarajevo5.jpg"
+    },
+    {
+        "id": "sar1",
+        "location": "Sarajevo, Bosnia & Herzegovina",
+        "description": "Hanging out",
+        "src": "./sarajevo1.jpg"
+    },
+    {
+        "id": "sar8",
+        "location": "Sarajevo, Bosnia & Herzegovina",
+        "description": "Glass",
+        "src": "./sarajevo8.jpg"
+    },
+    {
+        "id": "vis0",
+        "location": "Visegrád, Bosnia & Herzegovina",
+        "description": "Ivo Andrić",
+        "src": "./visegrad0.jpg"
+    },
+    {
+        "id": "vis1",
+        "location": "Visegrád, Bosnia & Herzegovina",
+        "description": "bridge over the Drina",
+        "src": "./visegrad1.jpg"
+    },
+    {
+        "id": "mok1",
+        "location": "Mokra Gora, Serbia",
+        "description": "Walking to the main road",
+        "src": "./mokragora1.jpg"
+    },
+    {
+        "id": "kra0",
+        "location": "Kraljevo, Serbia",
+        "description": "In the morning",
+        "src": "./kraljevo0.jpg"
+    },
+    {
+        "id": "kra1",
+        "location": "Kraljevo, Serbia",
+        "description": "Cousin of the driver that hosted me overnight",
+        "src": "./kraljevo1.jpg"
+    },
+    {
+        "id": "bel0",
+        "location": "Belgrade, Serbia",
+        "description": "Marko and Dexter",
+        "src": "./belgrade0.jpg"
+    },
+    {
+        "id": "bel1",
+        "location": "Belgrade, Serbia",
+        "description": "Marko and Dexter",
+        "src": "./belgrade1.jpg"
+    },
+    {
+        "id": "bel2",
+        "location": "Belgrade, Serbia",
+        "description": "Christmas decorations",
+        "src": "./belgrade2.jpg"
+    },
+    {
+        "id": "bel4",
+        "location": "Belgrade, Serbia",
+        "description": "Nebojša",
+        "src": "./belgrade4.jpg"
+    },
+    {
+        "id": "bel3",
+        "location": "Belgrade, Serbia",
+        "description": "Jacob",
+        "src": "./belgrade3.jpg"
+    },
+    {
+        "id": "bel5",
+        "location": "Belgrade, Serbia",
+        "description": "My attempt at being bougey",
+        "src": "./belgrade5.jpg"
+    },
+    {
+        "id": "bel6",
+        "location": "Belgrade, Serbia",
+        "description": "Aino",
+        "src": "./belgrade6.jpg"
+    },
+    {
+        "id": "bel7",
+        "location": "Belgrade, Serbia",
+        "description": "Aino",
+        "src": "./belgrade7.jpg"
+    },
+    {
+        "id": "bel8",
+        "location": "Belgrade, Serbia",
+        "description": "Along the Sava",
+        "src": "./belgrade8.jpg"
+    },
+    {
+        "id": "bel9",
+        "location": "Belgrade, Serbia",
+        "description": "Kai",
+        "src": "./belgrade9.jpg"
+    },
+    {
+        "id": "bel10",
+        "location": "Belgrade, Serbia",
+        "description": "Kai hitchhiking",
+        "src": "./belgrade10.jpg"
+    },
+    {
+        "id": "nov8",
+        "location": "Novi Sad, Serbia",
+        "description": "Kai",
+        "src": "./novisad8.jpg"
+    },
+    {
+        "id": "nov7",
+        "location": "Novi Sad, Serbia",
+        "description": "Ashtray",
+        "src": "./novisad7.jpg"
+    },
+    {
+        "id": "nov6",
+        "location": "Novi Sad, Serbia",
+        "description": "Mark-Jacob",
+        "src": "./novisad6.jpg"
+    },
+    {
+        "id": "nov4",
+        "location": "Novi Sad, Serbia",
+        "description": "Mark-Jacob",
+        "src": "./novisad4.jpg"
+    },
+    {
+        "id": "nov3",
+        "location": "Novi Sad, Serbia",
+        "description": "Bathroom",
+        "src": "./novisad3.jpg"
+    },
+    {
+        "id": "nov2",
+        "location": "Novi Sad, Serbia",
+        "description": "Graffiti in Novi Sad",
+        "src": "./novisad2.jpg"
+    },
+    {
+        "id": "nov1",
+        "location": "Novi Sad, Serbia",
+        "description": "Flower stand",
+        "src": "./novisad1.jpg"
+    },
+    {
+        "id": "nov0",
+        "location": "Novi Sad, Serbia",
+        "description": "Stuffed bear right next to the toilet paper",
+        "src": "./novisad0.jpg"
+    }
+]
