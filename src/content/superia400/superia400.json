@@ -1,0 +1,139 @@
+[{
+        "id": "ver0",
+        "location": "Verona, Italy",
+        "description": "View of the Adige",
+        "src": "./verona0.jpg"
+    },
+    {
+        "id": "ver1",
+        "location": "Verona, Italy",
+        "description": "View of the Adige",
+        "src": "./verona1.jpg"
+    },
+    {
+        "id": "ver2",
+        "location": "Verona, Italy",
+        "description": "On a street",
+        "src": "./verona2.jpg"
+    },
+    {
+        "id": "tri0",
+        "location": "Trieste, Italy",
+        "description": "Andrea",
+        "src": "./trieste0.jpg"
+    },
+    {
+        "id": "tri1",
+        "location": "Trieste, Italy",
+        "description": "Emergency Room Bed on the street",
+        "src": "./trieste1.jpg"
+    },
+    {
+        "id": "tri2",
+        "location": "Trieste, Italy",
+        "description": "City Center",
+        "src": "./trieste2.jpg"
+    },
+    {
+        "id": "tri3",
+        "location": "Trieste, Italy",
+        "description": "Ambra",
+        "src": "./trieste3.jpg"
+    },
+    {
+        "id": "tri4",
+        "location": "Trieste, Italy",
+        "description": "Feminist bench",
+        "src": "./trieste4.jpg"
+    },
+    {
+        "id": "kop0",
+        "location": "Koper, Slovenia",
+        "description": "Wall",
+        "src": "./koper0.jpg"
+    },
+    {
+        "id": "kop3",
+        "location": "Koper, Slovenia",
+        "description": "View of the port",
+        "src": "./koper3.jpg"
+    },
+    {
+        "id": "pul2",
+        "location": "Pula, Croatia",
+        "description": "Smryna",
+        "src": "./pula2.jpg"
+    },
+    {
+        "id": "faz0",
+        "location": "Fažana, Croatia",
+        "description": "Sunset",
+        "src": "./fazana0.jpg"
+    },
+    {
+        "id": "faz1",
+        "location": "Fažana, Croatia",
+        "description": "Smyrna and her friends",
+        "src": "./fazana1.jpg"
+    },
+    {
+        "id": "faz2",
+        "location": "Fažana, Croatia",
+        "description": "Sunset",
+        "src": "./fazana2.jpg"
+    },
+    {
+        "id": "faz4",
+        "location": "Fažana, Croatia",
+        "description": "Selfie",
+        "src": "./fazana4.jpg"
+    },
+    {
+        "id": "faz6",
+        "location": "Fažana, Croatia",
+        "description": "Smyrna busking",
+        "src": "./fazana6.jpg"
+    },
+    {
+        "id": "voz0",
+        "location": "Vozilići, Croatia",
+        "description": "Hitchhiking",
+        "src": "./vozilici0.jpg"
+    },
+    {
+        "id": "voz1",
+        "location": "Vozilići, Croatia",
+        "description": "Polish couple that began hitching after me in Pula",
+        "src": "./vozilici1.jpg"
+    },
+    {
+        "id": "lov0",
+        "location": "Lovran, Croatia",
+        "description": "Adriatic Sea",
+        "src": "./lovran0.jpg"
+    },
+    {
+        "id": "lov2",
+        "location": "Lovran, Croatia",
+        "description": "Before the storm",
+        "src": "./lovran2.jpg"
+    },
+    {
+        "id": "lov3",
+        "location": "Lovran, Croatia",
+        "description": "Contrasting walls",
+        "src": "./lovran3.jpg"
+    },
+    {
+        "id": "rij0",
+        "location": "Rijeka, Croatia",
+        "description": "Croatian couple",
+        "src": "./rijeka0.jpg"
+    },
+    {
+        "id": "rij1",
+        "location": "Rijeka, Croatia",
+        "description": "Me",
+        "src": "./rijeka1.jpg"
+    }
+]
