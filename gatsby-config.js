@@ -29,6 +29,7 @@ module.exports = {
         path: `${__dirname}/src/content/provia100f`,
       },
     },
+    "gatsby-transformer-json",
     {
       resolve: `gatsby-source-filesystem`,
       options: {

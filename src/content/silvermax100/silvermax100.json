@@ -36,10 +36,92 @@
     },
     {
         "id": "lin0",
-        "location": "Bern, Switzerland",
-        "description": "Jigme",
-        "src": "./bern3.jpg"
+        "location": "Lindau, Switzerland",
+        "description": "View from a humongous rest stop",
+        "src": "./lindau0.jpg"
+    },
+    {
+        "id": "lin1",
+        "location": "Lindau, Switzerland",
+        "description": "HitchWiki, my Lord and Savior",
+        "src": "./lindau1.jpg"
+    },
+    {
+        "id": "buc0",
+        "location": "Buchs, Switzerland",
+        "description": "View from the camp site",
+        "src": "./buchs0.jpg"
+    },
+    {
+        "id": "buc1",
+        "location": "Buchs, Switzerland",
+        "description": "Walking to Liechtenstein",
+        "src": "./buchs1.jpg"
+    },
+    {
+        "id": "vad1",
+        "location": "Vaduz, Liechtenstein",
+        "description": "Forest on the mountain",
+        "src": "./vaduz1.jpg"
+    },
+    {
+        "id": "vad2",
+        "location": "Vaduz, Liechtenstein",
+        "description": "Setting up camp and making dinner",
+        "src": "./vaduz2.jpg"
+    },
+    {
+        "id": "vad3",
+        "location": "Vaduz, Liechtenstein",
+        "description": "View from my camping spot",
+        "src": "./vaduz3.jpg"
+    },
+    {
+        "id": "vad7",
+        "location": "Vaduz, Liechtenstein",
+        "description": "View from my camping spot at sunrise",
+        "src": "./vaduz7.jpg"
+    },
+    {
+        "id": "vad4",
+        "location": "Vaduz, Liechtenstein",
+        "description": "Treehouse",
+        "src": "./vaduz4.jpg"
+    },
+    {
+        "id": "vad11",
+        "location": "Vaduz, Liechtenstein",
+        "description": "Resting in the treehouse while it rains outside",
+        "src": "./vaduz11.jpg"
+    },
+    {
+        "id": "blu0",
+        "location": "Bludenz, Austria",
+        "description": "7PM last efforts to hitch a ride before camping",
+        "src": "./bludenz0.jpg"
+    },
+    {
+        "id": "klo2",
+        "location": "Klösterle, Austria",
+        "description": "Hitchhiking early in the morning",
+        "src": "./klosterle2.jpg"
+    },
+    {
+        "id": "klo1",
+        "location": "Klösterle, Austria",
+        "description": "Hitchhiking early in the morning",
+        "src": "./klosterle1.jpg"
+    },
+    {
+        "id": "inn2",
+        "location": "Innsbruck, Austria",
+        "description": "Through a random window",
+        "src": "./innsbruck2.jpg"
+    },
+    {
+        "id": "inn1",
+        "location": "Innsbruck, Austria",
+        "description": "View from my camping spot",
+        "src": "./innsbruck1.jpg"
     }
-
-
 ]
