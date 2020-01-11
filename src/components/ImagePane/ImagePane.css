@@ -10,7 +10,8 @@
 
 @media only screen and (max-width: 768px) {
     .image-pane {
-        height: 100vh;
-        width: calc(100vw + 100px);
+        height: auto;
+        min-width: 100vw;
+        /* width: calc(100vw + 100px); */
     }
 }
