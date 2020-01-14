@@ -9,10 +9,6 @@ const TextPane = () => {
       <div className="text-container">
         <p>Christian Russo's Photos</p>
         <p>
-          Well, well, well. It seems you've found my digital collection of
-          analog photographs.
-        </p>
-        <p>
           This is mainly a compendium of photos taken during my travels and of
           my home city. Enjoy... or don't.
         </p>

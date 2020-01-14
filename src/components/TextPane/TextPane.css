@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
 .text-container {
-    min-width: 70ch/2ch;
+    min-width: 30em;
     padding: 1.5rem;
     margin: auto;
-
-    height: auto;
+    overflow-y: scroll;
+    height: 100vh;
     display: block;
     align-self: flex-start;
     flex-basis: 30vw;
@@ -18,7 +18,6 @@
 @media only screen and (max-width: 768px) {
     .text-container {
         height: 100%;
-        overflow-y: auto;
         min-width: 100vw;
         padding: 1.5rem;
         margin: auto;

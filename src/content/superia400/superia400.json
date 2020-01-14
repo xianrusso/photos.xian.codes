@@ -47,6 +47,12 @@
         "src": "./trieste4.jpg"
     },
     {
+        "id": "tri5",
+        "location": "Trieste, Italy",
+        "description": "Ambra",
+        "src": "./trieste5.jpg"
+    },
+    {
         "id": "kop0",
         "location": "Koper, Slovenia",
         "description": "Wall",
@@ -57,6 +63,18 @@
         "location": "Koper, Slovenia",
         "description": "View of the port",
         "src": "./koper3.jpg"
+    },
+    {
+        "id": "pul0",
+        "location": "Pula, Croatia",
+        "description": "Houses",
+        "src": "./pula0.jpg"
+    },
+    {
+        "id": "pul1",
+        "location": "Pula, Croatia",
+        "description": "Kittens",
+        "src": "./pula1.jpg"
     },
     {
         "id": "pul2",
@@ -87,6 +105,12 @@
         "location": "Fažana, Croatia",
         "description": "Selfie",
         "src": "./fazana4.jpg"
+    },
+    {
+        "id": "faz5",
+        "location": "Fažana, Croatia",
+        "description": "Selfie",
+        "src": "./fazana5.jpg"
     },
     {
         "id": "faz6",
