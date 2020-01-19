@@ -8,10 +8,21 @@
     visibility: visible;
 }
 
+/* Portrait */
+
 @media only screen and (max-width: 768px) {
     .image-pane {
-        height: auto;
-        min-width: 100vw;
+        height: 100vh;
+        min-width: calc(100% + 1000px);
         /* width: calc(100vw + 100px); */
+    }
+}
+
+/* Landscape */
+
+@media only screen and (max-height: 364px) {
+    .image-pane {
+        height: 100vh;
+        min-width: 100vw;
     }
 }

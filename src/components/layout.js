@@ -17,6 +17,7 @@ const Layout = ({ children }) => {
           content.current.scrollLeft += e.deltaY
         }
       }
+
       window.addEventListener("mousewheel", useScroll)
       return () => {
         window.removeEventListener("mousewheel", useScroll)

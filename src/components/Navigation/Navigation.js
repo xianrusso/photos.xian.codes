@@ -1,13 +1,21 @@
-import React from "react"
+import React, { useEffect } from "react"
 import { Link } from "gatsby"
 
 import "./Navigation.css"
 
 const Navigation = () => {
-  function activate() {
-    document.querySelectorAll(Link).classList.remove("active")
-    document.querySelector(this).classList.add("active")
-  }
+  useEffect(() => {
+    function activate() {
+      const loc = location.pathname
+      document.querySelector('Link[to="' + loc + '"]').classList.add("active")
+
+      // document.querySelectorAll("Link").classList.remove("active")
+      // document.querySelector("Link").classList.add("active")
+    }
+    window.onchange(activate())
+    return Link
+  }, [Link])
+
   return (
     <>
       <nav>

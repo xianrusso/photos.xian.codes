@@ -7,7 +7,7 @@ nav {
 }
 
 .active {
-    color: #72D7D1;
+    color: green;
     text-decoration: underline;
 }
 
@@ -29,4 +29,12 @@ a:hover {
 a:active {
     text-decoration: underline;
     color: #72D7D1;
+}
+
+/* Portrait */
+
+@media only screen and (max-height: 364px) {
+    a {
+        margin-bottom: 10px;
+    }
 }

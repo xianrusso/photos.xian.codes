@@ -4,7 +4,6 @@
     min-width: 30em;
     padding: 1.5rem;
     margin: auto;
-    overflow-y: scroll;
     height: 100vh;
     display: block;
     align-self: flex-start;
@@ -14,6 +13,18 @@
     color: #fff;
     font-family: 'Nunito', sans-serif;
 }
+
+p {
+    padding: 1em 1em;
+    position: relative;
+}
+
+.links {
+    text-decoration: underline;
+    outline: none;
+}
+
+/* Portrait */
 
 @media only screen and (max-width: 768px) {
     .text-container {
@@ -26,12 +37,12 @@
     }
 }
 
-p {
-    padding: 1em 1em;
-    position: relative;
-}
+/* Landscape */
 
-.links {
-    text-decoration: underline;
-    outline: none;
+@media only screen and (max-height: 364px) {
+    .text-container {
+        height: 100vh;
+        min-width: 100vw;
+        overflow-y: auto;
+    }
 }
