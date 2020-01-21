@@ -10,8 +10,9 @@ const TextPane = () => {
         <p>Christian Russo's Photos</p>
         <p>
           This is mainly a compendium of photos taken during my travels and of
-          my home city. Enjoy... or don't.
+          my home city.
         </p>
+        <p>Images were compressed with TinyJPG and JPGMiniPro.</p>
         <Navigation></Navigation>
         <p>
           Hit me up on&nbsp;
